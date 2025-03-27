@@ -25,15 +25,16 @@ I'm a passionate and curious problem solver who loves using code to create meani
 
 ---
 
-## 🧠 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🧓 **Facial Aging Model** | Realistic age progression from 25–100 with wrinkle & skin tone consistency | PyTorch, VGG, Dis_PatchGAN, FFHQ |
-| 🧠 **CTC Speech Recognition** | Beam Search Decoder for speech-to-text using GRU-based encoder | Python, NumPy, RNN, CTC |
-| 🌐 **Dr. Row’s 555 App** | Holistic breathing technique web app with SEO & PWA | React, HTML/CSS, Lighthouse |
-| 🛡️ **Crime Tracking Platform** | Full-stack app for live crime data with ERD + REST API | Ruby on Rails, React, SQL |
-| 💬 **NodeBB Forum Enhancements** | Anon posting + OpenAI translation + GitHub Actions CI/CD | NodeJS, Azure, GitHub Actions |
+- [🧓 Facial Aging GAN](https://github.com/rosyyang224/facial-aging-gan)  
+  Realistic age progression model from 25 to 100 using PatchGAN + perceptual loss. Achieved 18% texture boost with custom pipelines.
+
+- [💬 NodeBB Forum Enhancements](https://github.com/rosyyang224/nodebb-forum-mod)  
+  Added anonymous posting + OpenAI translation + GitHub Actions CI/CD to an open-source forum platform.
+
+- [🌐 Dr. Row’s 555 PWA](https://github.com/rosyyang224/drrow-555)  
+  A holistic breathing technique app designed with mobile-first, SEO, and accessibility in mind (React + PWA).
 
 ➡️ Explore the `projects/` folder to dive into the code.
 
