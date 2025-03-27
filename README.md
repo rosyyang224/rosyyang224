@@ -47,22 +47,25 @@ I'm a passionate and curious problem solver who loves using code to create meani
 **Other**: Git, Linux, Tableau, Figma, REST APIs, LaTeX
 
 ---
+## 🔧 Languages & Tools
 
-## 📌 How to Navigate This Repo
-```
-rosyyang224/
-├── README.md                 # 👋 Main profile README (this file)
-├── resume/
-│   ├── Rosemary_Yang_Resume.pdf  # 📄 Downloadable resume
-│   └── README.md                 # (Optional) Mini bio or version history
-├── projects/
-│   ├── facial-aging/         # 🧓 Generative facial aging model (GAN + perceptual loss)
-│   ├── ctc-asr/              # 🧠 CTC speech recognition with beam search decoding
-│   ├── drrow-pwa/            # 🌐 SEO-friendly breathing app (React + PWA)
-│   ├── crime-tracker/        # 🛡️ Crime visualization app (Rails + React)
-│   └── nodebb-enhancements/  # 💬 NodeBB forum upgrades + OpenAI + CI/CD
-├── assets/
-│   ├── screenshots/          # 📸 Images and UI previews for README embeds
-│   └── diagrams/             # 🧩 ERDs, model architectures, etc.
-└── .gitignore                # 🔒 File/folder exclusions
-```
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</p>
