@@ -1,6 +1,6 @@
 # Hi, I’m Rosemary Yang  
-Senior @ Carnegie Mellon University, Graduating Dec 2026  
-Incoming Summer Analyst @ Morgan Stanley HK (IST Division)  
+Senior @ Carnegie Mellon University
+Graduating Dec 2026  
 yang.rosemary.e@gmail.com  
 
 ---
@@ -64,6 +64,5 @@ I’ve worked on projects in machine learning, full-stack development, and workf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" />
 </p>
 
