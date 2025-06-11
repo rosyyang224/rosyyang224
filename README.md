@@ -1,5 +1,5 @@
 # Hi, I’m Rosemary Yang  
-Senior @ Carnegie Mellon University
+Senior @ Carnegie Mellon University  
 Graduating Dec 2026  
 yang.rosemary.e@gmail.com  
 
