@@ -1,54 +1,43 @@
-# 👋 Hi, I’m Rosemary Yang
-
-🎓 Junior @ Carnegie Mellon University | 📅 Graduating Dec 2026  
-💼 Incoming Summer Analyst @ Morgan Stanley HK (IST Division)  
-📍 Based in the DMV area | 📫 yang.rosemary.e@gmail.com  
-
----
-
-## 🌟 About Me
-
-I'm a passionate and curious problem solver who loves using code to create meaningful impact. Whether it's optimizing logistics, enhancing user experiences, or building machine learning pipelines, I thrive at the intersection of data, systems, and people.
-
-🔍 I'm especially interested in:
-- 📦 **Supply Chain & Logistics Optimization**
-- 🛍️ **Retail & E-Commerce Personalization**
-- 🧠 **NLP + Computer Vision**
-- 📱 **Mobile-first Web Apps (React Native, PWAs)**
+# Hi, I’m Rosemary Yang  
+Senior @ Carnegie Mellon University, Graduating Dec 2026  
+Incoming Summer Analyst @ Morgan Stanley HK (IST Division)  
+yang.rosemary.e@gmail.com  
 
 ---
 
-## 📄 Resume
+## About Me
 
-- **[📥 View/Download My Resume (PDF)](./resume/Rosemary_Yang_Resume.pdf)**
-- [🔗 LinkedIn](https://www.linkedin.com/in/rosemary-yang-8297251b3/)
-
----
-
-## 🚀 Featured Projects
-
-- [🧓 Facial Aging GAN](https://github.com/rosyyang224/facial-aging-gan)  
-  Realistic age progression model from 25 to 100 using PatchGAN + perceptual loss. Achieved 18% texture boost with custom pipelines.
-
-- [💬 NodeBB Forum Enhancements](https://github.com/rosyyang224/nodebb-forum-mod)  
-  Added anonymous posting + OpenAI translation + GitHub Actions CI/CD to an open-source forum platform.
-
-- [🌐 Dr. Row’s 555 PWA](https://github.com/rosyyang224/drrow-555)  
-  A holistic breathing technique app designed with mobile-first, SEO, and accessibility in mind (React + PWA).
-
-➡️ Explore the `projects/` folder to dive into the code.
+I’ve worked on projects in machine learning, full-stack development, and workflow automation, and I love the challenge of figuring things out when the path isn’t clear. Whether I’m untangling messy data or finding a faster way to get something done, I get most excited when the work helps real users.
 
 ---
 
-## 🔧 Tech Stack
+## Featured Projects
 
-**Languages**: Python, JavaScript, C++, Java, C#, SQL, Ruby  
-**Frameworks & Tools**: React, Flask, NodeJS, PyTorch, TensorFlow, PostgreSQL, MongoDB  
-**Cloud & DevOps**: AWS, GCP, Azure, Kubernetes, ArgoCD, Terraform  
-**Other**: Git, Linux, Tableau, Figma, REST APIs, LaTeX
+- [Zoho Ranking App](https://github.com/rosyyang224/zoho-company-ranking-app)  
+  Lead-ranking platform for biopharma B2B targeting, combining data enrichment, web scraping, and a customizable Streamlit frontend.  
+
+- [Investigatr](https://github.com/rosyyang224/investigatr)  
+  Role-based case management platform for law enforcement, built with Rails to support secure investigations, audit trails, and internal accountability.
+  
+- [Facial Aging GAN](https://github.com/rosyyang224/ganimation-age-extension)  
+  Realistic age progression model using PatchGAN + perceptual loss. Trained on CelebA-HQ with 18% texture fidelity boost.
+  
+- [Dr. Row’s 555 PWA](https://github.com/ajaphid/Dr-Rows-555)  
+  Consulted on and improved a breathing technique website with accessibility, SEO, and user experience enhancements for mobile-first use.
 
 ---
-## 🔧 Languages & Tools
+
+## Tech Stack
+
+**Languages**: Python, Java, JavaScript, TypeScript, C++, C, C#, Ruby, SQL, HTML/CSS, SML, JSON, XML, UML  
+**Frameworks & Libraries**: React, Node.js, Flask, Streamlit, PyTorch, TensorFlow, SpaCy, Selenium, BeautifulSoup  
+**Cloud & DevOps**: AWS, GCP, Azure, Supabase, Docker, Kubernetes, Terraform, ArgoCD  
+**Databases & APIs**: PostgreSQL, MongoDB, REST APIs, Postman  
+**Tools & Platforms**: Git, Linux/Unix, Tableau, Power BI, JIRA, Confluence, Figma  
+
+---
+
+## Tools & Platforms
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
@@ -60,12 +49,10 @@ I'm a passionate and curious problem solver who loves using code to create meani
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
