@@ -7,7 +7,7 @@ yang.rosemary.e@gmail.com
 
 ## About Me
 
-I’ve worked on projects in machine learning, full-stack development, and workflow automation, and I love the challenge of figuring things out when the path isn’t clear. Whether I’m untangling messy data or finding a faster way to get something done, I get most excited when the work helps real users.
+I enjoy tackling ambiguous problems, whether it’s building machine learning models, developing end-to-end apps, or automating clunky workflows. I’m driven by the impact, especially when the solution makes things smoother or faster for real people.
 
 ---
 
