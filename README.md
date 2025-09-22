@@ -1,13 +1,13 @@
 # Hi, I’m Rosemary Yang  
 Senior @ Carnegie Mellon University  
-Graduating Dec 2026  
+Graduating Dec 2025  
 yang.rosemary.e@gmail.com  
 
 ---
 
 ## About Me
 
-I enjoy tackling ambiguous problems, whether it’s building machine learning models, developing end-to-end apps, or automating clunky workflows. I’m driven by the impact, especially when the solution makes things smoother or faster for real people.
+I'm drawn to complex, open-ended challenges where the path forward isn't immediately clear. I work across machine learning, full-stack development, and process automation, but what motivates me most is creating solutions that genuinely improve how people work.
 
 ---
 
