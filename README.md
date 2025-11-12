@@ -10,6 +10,15 @@ yang.rosemary.e@gmail.com | [linkedin.com/in/rosemaryyang-](https://linkedin.com
 
 I build intelligent systems that connect research-driven machine learning with real-world applications. My recent work spans on-device LLM tooling, NLP-driven ranking engines, generative modeling, and quantum transformer research. I focus on designing systems that balance model performance, interpretability, and scalability.
 
+
+### Technical Focus
+
+- Full-Stack Software Engineering (Frontend, Backend, APIs)  
+- Applied Machine Learning & On-Device AI Systems
+- Mobile & Cross-Platform Development (Swift, React, Node.js)  
+- Data Pipelines, Model Integration, and Performance Optimization
+- Cloud Infrastructure & DevOps (Docker, Kubernetes, CI/CD)  
+
 ---
 
 ## Selected Projects
@@ -46,14 +55,3 @@ Exploration of hybrid quantum-classical transformer architectures.
 - Benchmarked quantum sequence encoders and QSVT-based loss optimizations.  
 - Investigated vanishing-gradient mitigation through constrained polynomial design.  
 - Conducted experiments on AWS Braket for quantum circuit simulation and validation.
-
----
-
-## Technical Focus Areas
-
-- **Machine Learning & AI:** LLM tooling, NLP, on-device inference, model quantization  
-- **Software Engineering:** Swift, Python, PyTorch, Core ML, MLX, Streamlit, Flask  
-- **Infrastructure & Deployment:** Docker, Kubernetes, CI/CD, Supabase, Firebase, AWS, GCP  
-- **Research:** Quantum ML, generative models, knowledge graph networks  
-
-
