@@ -1,68 +1,59 @@
-# Hi, I’m Rosemary Yang  
+# Rosemary Yang  
 Senior @ Carnegie Mellon University  
-Graduating Dec 2025  
-yang.rosemary.e@gmail.com  
+B.S. Information Systems, Minor in Computer Science  
+Graduating December 2025  
+yang.rosemary.e@gmail.com | [linkedin.com/in/rosemaryyang-](https://linkedin.com/in/rosemaryyang-/)  
 
 ---
 
-## About Me
+## Overview
 
-I'm drawn to complex, open-ended challenges where the path forward isn't immediately clear. I work across machine learning, full-stack development, and process automation, but what motivates me most is creating solutions that genuinely improve how people work.
-
----
-
-## Featured Projects
-
-- [Zoho Ranking App](https://github.com/rosyyang224/zoho-company-ranking-app)  
-  Lead-ranking platform for biopharma B2B targeting, combining data enrichment, web scraping, and a customizable Streamlit frontend.  
-
-- [Investigatr](https://github.com/rosyyang224/investigatr)  
-  Role-based case management platform for law enforcement, built with Rails to support secure investigations, audit trails, and internal accountability.
-  
-- [Facial Aging GAN](https://github.com/rosyyang224/ganimation-age-extension)  
-  Extended the GANimation framework to support age progression and regression alongside AU-driven facial animation, enabling realistic, identity-preserving aging with dynamic expressions.
-  
-- [Dr. Row’s 555 PWA](https://github.com/ajaphid/Dr-Rows-555)  
-  Consulted on and improved a breathing technique website with accessibility, SEO, and user experience enhancements for mobile-first use.
+I build intelligent systems that connect research-driven machine learning with real-world applications. My recent work spans on-device LLM tooling, NLP-driven ranking engines, generative modeling, and quantum transformer research. I focus on designing systems that balance model performance, interpretability, and scalability.
 
 ---
 
-## Tech Stack
+## Selected Projects
 
-**Languages**: Python, Java, JavaScript, TypeScript, C++, C, C#, Ruby, SQL, HTML/CSS, SML, JSON, XML, UML  
-**Frameworks & Libraries**: React, Node.js, Flask, Streamlit, PyTorch, TensorFlow, SpaCy, Selenium, BeautifulSoup  
-**Cloud & DevOps**: AWS, GCP, Azure, Supabase, Docker, Kubernetes, Terraform, ArgoCD  
-**Databases & APIs**: PostgreSQL, MongoDB, REST APIs, Postman  
-**Tools & Platforms**: Git, Linux/Unix, Tableau, Power BI, JIRA, Confluence, Figma  
+### [Saturdays iOS App](https://github.com/tinchil/67443-TYR)
+Social time-capsule app that curates photo and video memories with local AI inference.  
+- Implemented Core ML and Vision pipelines for photo clustering and face detection.  
+- Developed in SwiftUI with AVFoundation for video processing and rendering.  
+- Designed modular architecture to support future on-device LLM integration.
 
 ---
 
-## Tools & Platforms
+### [Zoho Lead Ranking Platform](https://github.com/rosyyang224/zoho-company-ranking-app)
+Full-stack CRM and lead-ranking system for biopharma B2B targeting.  
+- Designed modular data enrichment, scoring, and ranking pipelines using Python and Streamlit.  
+- Integrated Zoho CRM API and custom ranking algorithms for dynamic lead prioritization.  
+- Focused on data normalization, enrichment accuracy, and extensibility for future MLOps integration.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-</p>
+---
+
+### [GANimation Age Extension](https://github.com/rosyyang224/ganimation-age-extension)
+Extension of the GANimation framework to support age progression and regression.  
+- Introduced an age-modulation subnetwork to preserve identity and dynamic expression features.  
+- Applied VGG-based perceptual loss and PatchGAN discriminators for high-fidelity results.  
+- Project completed as part of CMU’s 10-423/623 Generative AI course.  
+
+[Read Full Project Report (PDF)](https://github.com/rosyyang224/ganimation-age-extension/blob/main/docs/Adding_Aging_While_Maintaining_Facial_Animation.pdf)  
+
+
+---
+
+### [Quixer Quantum Transformer Research](https://github.com/rosyyang224/quixer-transformer)
+Exploration of hybrid quantum-classical transformer architectures.  
+- Benchmarked quantum sequence encoders and QSVT-based loss optimizations.  
+- Investigated vanishing-gradient mitigation through constrained polynomial design.  
+- Conducted experiments on AWS Braket for quantum circuit simulation and validation.
+
+---
+
+## Technical Focus Areas
+
+- **Machine Learning & AI:** LLM tooling, NLP, on-device inference, model quantization  
+- **Software Engineering:** Swift, Python, PyTorch, Core ML, MLX, Streamlit, Flask  
+- **Infrastructure & Deployment:** Docker, Kubernetes, CI/CD, Supabase, Firebase, AWS, GCP  
+- **Research:** Quantum ML, generative models, knowledge graph networks  
+
 
